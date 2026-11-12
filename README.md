@@ -26,5 +26,5 @@ python todo.py
 3 - Exit
 
 Select action: 1
-Enter task: Learn Python
+Enter task: walk the dog
 ```
